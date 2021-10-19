@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alicelaw291, a student of year 2
+- 👋 Hi, I’m @alicelaw291, a year2 student 
 
 - 🌱 I’m currently learning java, c++ and python
 
